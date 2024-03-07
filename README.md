@@ -12,6 +12,7 @@ A refactored social media marketing website
 1. Clone the repository. [HERE](https://github.com/zwanner/01-challenge)
 2. Open the `index.html` file in your web browser.
 3. Alternatively it is hosted on [Github Pages](https://zwanner.github.io/01-challenge/) 
+4. index.html includes the HTML structure, style.css contains the CSS styles.
 
 ## Screenshots
 

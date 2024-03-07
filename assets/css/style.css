@@ -1,4 +1,5 @@
 /* Universal Settings */
+/* Applies box-sizing, padding, and margin to all elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,6 +7,7 @@
 }
 
 /* Header styles */
+/* Styles for the header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,7 @@ header h1 .seo {
 }
 
 /* Navigation Bar styles */
+/* Styles for the navigation bar */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,11 +40,13 @@ nav li {
 }
 
 /* Main page styles */
+/* Styles for the main content section */
 main {
     background-color: #d9dcd6;
 }
 
 /* Large banner image styles */
+/* Styles for the large banner image */
 .bigImage {
     height: 800px;
     width: 100%;
@@ -52,6 +57,7 @@ main {
 }
 
 /* Main article styles */
+/* Styles for the main article section */
 article {
     width: 75%;
     display: inline-block;
@@ -79,6 +85,7 @@ article figure{
 }
 
 /* Side content styles */
+/* Styles for the side content section */
 aside{
     margin-right: 20px;
     padding: 20px;
@@ -90,7 +97,7 @@ aside{
     background-color: #2589bd;
 }
 
-aside div {
+aside figure {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -107,6 +114,7 @@ aside img {
 }
 
 /* Footer Styles */
+/* Styles for the footer section */
 footer {
     padding: 30px;
     clear: both;
@@ -119,21 +127,24 @@ footer h2 {
 }
 
 /* Styles for generic elements */
+/* Styles for generic anchor elements */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Styles for generic paragraphs */
 p {
     font-size: 16px;
 }
 
+/* Styles for generic images */
 img {
     max-height: 200px;
 }
 
+/* Styles for generic headings */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
